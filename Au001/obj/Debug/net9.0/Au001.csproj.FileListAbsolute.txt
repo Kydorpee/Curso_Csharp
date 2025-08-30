@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\bin\Debug\net9.0\Au001.exe
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\bin\Debug\net9.0\Au001.deps.json
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\bin\Debug\net9.0\Au001.runtimeconfig.json
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\bin\Debug\net9.0\Au001.dll
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\bin\Debug\net9.0\Au001.pdb
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.sourcelink.json
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.dll
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\refint\Au001.dll
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.pdb
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\Au001.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\Au001\obj\Debug\net9.0\ref\Au001.dll
