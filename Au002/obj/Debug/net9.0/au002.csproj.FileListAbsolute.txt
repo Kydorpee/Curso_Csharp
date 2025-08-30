@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.sourcelink.json
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\bin\Debug\net9.0\au002.exe
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\bin\Debug\net9.0\au002.deps.json
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\bin\Debug\net9.0\au002.runtimeconfig.json
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\bin\Debug\net9.0\au002.dll
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\bin\Debug\net9.0\au002.pdb
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.dll
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\refint\au002.dll
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.pdb
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\au002.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Desenvolvimento\Cursos\Curso_Csharp\au002\obj\Debug\net9.0\ref\au002.dll
