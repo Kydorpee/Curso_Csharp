@@ -1,46 +1,107 @@
-﻿public class Student
+﻿using System;
+
+
+// Quest 1
+public class Student
 {
     private string name;
-    private int grade1, grade2, grade3;
-    private int average;
-    public Student (string name) 
-    {  
+    private double[] grade = new double [3];
+    private double average;
+
+    public Student(string name)
+    {
         this.name = name;
     }
 
     public void pullGrade()
     {
-        Console.Write("Enter the first grade: ");
-        this.grade1 = int.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the second grade: ");
-        this.grade2 = int.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the third grade: ");
-        this.grade3 = int.Parse(Console.ReadLine());
-    }
-    public void onGrade()
-    {
-
-        this.average = (this.grade1 + this.grade2 + this.grade3) / 3;
-
-        if (this.average >= 7)
+        for (int i=0; i < 3; i++) 
         {
-            Console.WriteLine($"Hello, My name is {this.name}, i'm approved");
+            Console.Write($"Enter the {i+1}º grade of {name}: ");
+            grade[i] = double.Parse(Console.ReadLine());
         }
-        else if (this.average >= 5)
+        
+    }
+    public void onAverage()
+    {
+        string answerAverage;
+        average = (grade[0] + grade[1] + grade[2]) / 3;
+        
+
+        if (average >= 7)
         {
-            Console.WriteLine($"Hello, My name is {this.name}, i'm recovery");
+            answerAverage = "approved";
+        }
+        else if (average >= 5)
+        {
+            answerAverage = "recovery";
         }
         else
         {
-            Console.WriteLine($"Hello, My name is {this.name}, i'm flunked");
+            answerAverage = "flunked";
         }
+
+        Console.WriteLine($"Hello, My name is {name},my averade is {average:F2} i'm {answerAverage}");
     }
 
-    public static void Main(string[] args)
-    {
-      var newStudent = new Student("Pedro Vinicius");
-        newStudent.pullGrade();
-        newStudent.onGrade();
-    }
+
+    //public static void Main(string[] args)
+
+    //{
+    //    //var newStudent = new Student("Pedro Vinicius");
+    //    //newStudent.pullGrade();
+    //    //newStudent.onAverage();
+
+    //}
 }
 
+// Quest 2
+public class YearsOld
+{
+    private string name;
+    private int age;
+
+    public YearsOld(string name)
+    {
+        this.name = name;
+    }
+
+    public void getAge()
+    {
+        Console.Write($"Hello {name}!, how old are you?: ");
+        age = int.Parse(Console.ReadLine());
+    }
+
+    public void validateAge()
+    {
+        string maturity;
+     
+        if (age <= 17) 
+        {
+            maturity = "child"; 
+        }
+        else if (age <= 59)
+        { 
+            maturity = "of age"; 
+        }
+        else
+        {
+            maturity = "old";
+        }
+
+        Console.WriteLine($"i'm {maturity}");
+    }
+
+        
+    
+
+    //public static void Main(string[] args)
+    //{
+    //    var newAge = new YearsOld("Nathan");
+    //    newAge.getAge();
+    //    newAge.validateAge();
+
+    //}
+}
+
+//Quest 3
