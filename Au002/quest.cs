@@ -105,3 +105,34 @@ public class YearsOld
 }
 
 //Quest 3
+public class Odds
+{
+   private int number;
+
+    public Odds()
+    {
+        
+    }
+
+    public void getOdds()
+    {
+        Console.Write("Enter a number: ");
+        number = int.Parse(Console.ReadLine());
+    }
+
+    public  void verifyOdds()
+    {
+        string answerOdds = number % 2 == 0 ? "even" : "odd";
+        Console.WriteLine($"Your number is {answerOdds}");
+    }
+
+   
+    //public static void Main(string[] args)
+    //{
+    //    var newNumber = new Odds();
+    //    newNumber.getOdds();
+    //    newNumber.verifyOdds();
+    //}
+}
+
+//Quest 4
