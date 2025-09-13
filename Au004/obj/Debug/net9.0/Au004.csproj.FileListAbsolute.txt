@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\bin\Debug\net9.0\Au004.exe
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\bin\Debug\net9.0\Au004.deps.json
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\bin\Debug\net9.0\Au004.runtimeconfig.json
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\bin\Debug\net9.0\Au004.dll
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\bin\Debug\net9.0\Au004.pdb
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.sourcelink.json
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.dll
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\refint\Au004.dll
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.pdb
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\Au004.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Curso_Csharp\Au004\obj\Debug\net9.0\ref\Au004.dll
