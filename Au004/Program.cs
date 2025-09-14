@@ -8,7 +8,7 @@ namespace Aula04
 
     public static class Program
     {
-        //#region Quest 1
+        #region Quest 1
         //public static void Main(string[] args)
         //{
         //    string[,] gradeStudant = new string[5, 4];
@@ -51,7 +51,43 @@ namespace Aula04
         //    GetAverage();
 
         //}
-        //#endregion
+        #endregion
+
+        #region Quest 2
+
+        //public static void Main(string[] args) 
+        //{
+        //    int[,] valuesColum = new int[3, 3];
+        //    int[] correctColum = new int[3];
+        //    int totalValues = 0;
+
+        //    for (int i = 0; i < 3; i++) 
+        //    {
+        //        for (int j = 0; j < 3; j++)
+        //        {
+        //            Console.Write("Insert values: ");
+        //            valuesColum[i, j] = int.Parse(Console.ReadLine());
+
+        //            if(i == j)
+        //            {
+        //                correctColum[i] = valuesColum[i, j];
+        //                totalValues += valuesColum[i, j];
+
+        //            }
+        //        }
+        //    }
+        //    foreach (var WriteCollum in correctColum)
+        //    {
+
+        //        Console.Write($" A-> {WriteCollum}| " );
+        //    }
+
+
+        //    Console.WriteLine("");
+        //    Console.WriteLine($"B -> {totalValues}");
+        //}
+
+        #endregion
 
 
     }
